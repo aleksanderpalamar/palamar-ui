@@ -5,12 +5,16 @@
   ],
   "scripts": {
     "dev": "turbo run dev --parallel",
-    "build": "turbo run build"
+    "build": "turbo run build",
+    "changeset": "changeset",
+    "version-packages": "changeset version",
+    "release": "turbo run build --filter=packages/docs && changeset publish"
   },
   "dependencies": {
     "@stitches/react": "^1.2.8"
   },
   "devDependencies": {
+    "@changesets/cli": "^2.25.2",
     "turbo": "^1.6.2"
   }
 }
