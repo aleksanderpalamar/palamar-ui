@@ -5,27 +5,9 @@ Palamar-UI is a low-level UI component library with a focus on accessibility, cu
 
 ```shell
   npm install @palamar-ui/react
-  npm install @palamar-ui/tokens
   # or
   yarn add @palamar-ui/react
-  yarn add @palamar-ui/tokens
 ```
-
-## Components
-
-- [x] Text,
-- [x] Heading,
-- [x] Box,
-- [x] Button,
-- [x] TextInput,
-- [x] TextArea,
-- [x] Checkbox,
-- [x] Avatar,
-- [x] MultiStep,
-- [x] Flex,
-- [x] Grid,
-- [x] Switch,
-- [x] Header,
 
 ## Documentation
 
@@ -46,3 +28,4 @@ Palamar-UI is inspired by [Chakra UI](https://chakra-ui.com/)
 ## Author
 
 Aleksander Palamar
+
