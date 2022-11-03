@@ -2,6 +2,9 @@
 
 An open-source UI component library for building high-quality, accessible design systems and web apps.
 Palamar-UI is a low-level UI component library with a focus on accessibility, customization and developer experience. You can use these components either as the base layer of your design system, or adopt them incrementally.
+<p align="center">   
+  <img alt="Made by aleksanderpalamar" src="https://img.shields.io/badge/made%20by-aleksanderpalamar-%237519C1?style=flat-square" >  
+</p>
 
 ```shell
   npm install @palamar-ui/react
@@ -10,6 +13,8 @@ Palamar-UI is a low-level UI component library with a focus on accessibility, cu
   yarn add @palamar-ui/react
   yarn add @palamar-ui/tokens
 ```
+📦 [NPM-packages-react](https://www.npmjs.com/package/@palamar-ui/react)
+📦 [NPM-packages-tokens](https://www.npmjs.com/package/@palamar-ui/tokens)
 
 ## Components
 
