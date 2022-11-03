@@ -1,0 +1,4 @@
+{
+  "extends": "@palamar-ui/ts-config/base.json",
+  "include": ["src"],
+}

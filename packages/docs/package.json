@@ -1,0 +1,40 @@
+{
+  "name": "@palamar-ui/docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "start-storybook -p 6006",
+    "build": "build-storybook",
+    "deploy-storybook": "storybook-to-ghpages"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.19.6",
+    "@storybook/addon-actions": "^6.5.13",
+    "@storybook/addon-essentials": "^6.5.13",
+    "@storybook/addon-interactions": "^6.5.13",
+    "@storybook/addon-links": "^6.5.13",
+    "@storybook/builder-vite": "^0.2.4",
+    "@storybook/react": "^6.5.13",
+    "@storybook/storybook-deployer": "^2.8.16",
+    "@storybook/testing-library": "^0.0.13",
+    "@vitejs/plugin-react": "^2.1.0",
+    "babel-loader": "^8.2.5",
+    "vite": "^3.1.8"
+  },
+  "dependencies": {
+    "@palamar-ui/eslint-config": "*",
+    "@palamar-ui/react": "*",
+    "@palamar-ui/tokens": "*",
+    "@palamar-ui/ts-config": "*",
+    "@storybook/addon-a11y": "^6.5.13",
+    "phosphor-react": "^1.4.1",
+    "polished": "^4.2.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

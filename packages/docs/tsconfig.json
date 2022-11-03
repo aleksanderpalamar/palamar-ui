@@ -1,0 +1,4 @@
+{
+  "extends": "@palamar-ui/ts-config/react.json",
+  "include": ["src"],
+}
