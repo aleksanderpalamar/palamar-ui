@@ -12,7 +12,7 @@ export default {
         <Box css={{ display: 'flex', alignItems: 'center', gap: '$2' }}>
           <img src="https://www.palamarsolutionit.com.br/Ignite-logo.svg" alt="" />
           <Text size="lg">Palamar-UI</Text>
-        </Box>
+        </Box>        
         <Box
           css={{
             gap: '$2',
@@ -20,7 +20,7 @@ export default {
             alignItems: 'center',
             justifyContent: 'center',
           }}
-        >
+        >                   
           <User weight='bold'/>
           <Text as="a" href="#" size="lg" css={{textDecoration: 'none'}}>            
             Login

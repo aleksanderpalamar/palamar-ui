@@ -31,6 +31,7 @@ Palamar-UI is a low-level UI component library with a focus on accessibility, cu
 - [x] Grid,
 - [x] Switch,
 - [x] Header,
+- [x] NavigationMenu (new)
 
 ## Documentation
 
