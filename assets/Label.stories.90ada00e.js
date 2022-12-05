@@ -1,0 +1,2 @@
+import{L as r}from"./index.e0cb3cb5.js";import"./index.ed273f0a.js";import"./iframe.3d075974.js";import"./index.f1b5cc02.js";import"./jsx-runtime.0cc9a52a.js";const l={title:"Components/Label",component:r,args:{label:"Name",htmlFor:"name"},argTypes:{children:{control:{type:null}}}},n={},p=["Primary"];export{n as Primary,p as __namedExportsOrder,l as default};
+//# sourceMappingURL=Label.stories.90ada00e.js.map

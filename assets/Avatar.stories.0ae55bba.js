@@ -1,0 +1,2 @@
+import{A as t}from"./index.e0cb3cb5.js";import"./index.ed273f0a.js";import"./iframe.3d075974.js";import"./index.f1b5cc02.js";import"./jsx-runtime.0cc9a52a.js";const e={title:"Components/Avatar",component:t,args:{},argTypes:{src:{control:{type:"text"}}}},m={args:{src:"https://github.com/aleksanderpalamar.png",alt:"Avatar image github"}},p={args:{src:void 0}},c=["Primary","WithFallback"];export{m as Primary,p as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.0ae55bba.js.map
