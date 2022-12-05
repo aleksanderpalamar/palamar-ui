@@ -1,5 +1,11 @@
 # @palamar-ui/react
 
+## 4.0.0
+
+### Major Changes
+
+- Added a new component NavigationMenu
+
 ## 3.0.0
 
 ### Major Changes
